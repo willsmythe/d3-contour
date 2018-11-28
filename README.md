@@ -1,5 +1,7 @@
 # d3-contour
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-contour)](https://dev.azure.com/d3/d3/_build/definition?definitionId=6)
+
 This library computes contour polygons by applying [marching squares](https://en.wikipedia.org/wiki/Marching_squares) to a rectangular array of numeric values. For example, here is Maungawhau’s topology (the classic `volcano` dataset and `terrain.colors` from R):
 
 [<img alt="Contour Plot" src="https://raw.githubusercontent.com/d3/d3-contour/master/img/volcano.gif" width="420" height="295">](https://bl.ocks.org/mbostock/4241134)
